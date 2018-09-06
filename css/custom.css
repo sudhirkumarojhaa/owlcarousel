@@ -1,0 +1,22 @@
+body {
+  margin: 0;
+  height: 100vh;
+  /* background:#162137; */
+  font-family: 'Roboto Condensed',sans-serif;
+  /* background: url('../img/3.jpg') right no-repeat; */
+}
+
+h1,h2,h3,h4,h5,h6,p {
+  margin: 0;
+  padding: 0 30px;
+}
+
+
+.owl-nav {
+  text-align: center;
+  font-size: 90px;
+}
+
+.owl-carousel .owl-item img {
+  height: 85vh;
+}
